@@ -1,4 +1,6 @@
+<p align="center">
 # Hi there 👋, It's me Armeen Farange
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArmeenF)](https://github.com/ryo-ma/github-profile-trophy)
 
