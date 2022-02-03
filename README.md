@@ -16,13 +16,13 @@
 
 - 📫 Reach me at
 
-[ <img src="https://img.icons8.com/nolan/64/github.png" alt='github' height='40'>](https://github.com/ArmeenF)  
-[<img src="https://img.icons8.com/nolan/64/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/armeen-farange/) 
+[ 
+    <img src="https://img.icons8.com/nolan/64/github.png" alt='github' height='40'>](https://github.com/ArmeenF)  [<img src="https://img.icons8.com/nolan/64/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/armeen-farange/) 
 [<img src="https://img.icons8.com/color-glass/48/000000/gmail.png" alt='Gmail' height='40'>](https://armeenf@uw.edu/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArmeenF)](https://github.com/ryo-ma/github-profile-trophy)
 
-Languages and Tools:
+<!-- Languages and Tools:
 <table>
 <tbody>
     <tr>
@@ -75,7 +75,7 @@ Languages and Tools:
 </tbody>
 </table>
 
-
+ -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmeenF)](https://github.com/anuraghazra/github-readme-stats)
 
